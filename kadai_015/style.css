@@ -1,0 +1,32 @@
+/*全体中央寄せ*/
+body{
+ text-align:center;
+ font-family:"Arial", "Meiryo", sans-serif;
+}
+/*フォントサイズ*/
+html{
+ font-size: 20px;
+}
+ /*カラー*/
+ .biue{
+    color:skyblue;
+}
+.pink{
+    color: rgb(255, 192, 203)
+}
+/*h1の装飾*/
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size=2rem;
+  line-height:1.2;
+  text-shadow:1px 1px 2px gray
+  border-bottom:solid 3px rgb(115, 115, 114)
+}
+
+/*ｐ要素だけを太字に*/
+# basic p{
+    font-weight: bold;
+}
